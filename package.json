@@ -32,7 +32,7 @@
   },
   "devDependencies": {
     "@types/bluebird": "^3.5.18",
-    "@types/jest": "^21.1.8",
+    "@types/jest": "^21.1.10",
     "@types/nock": "^9.1.0",
     "@types/node": "^8.5.1",
     "@types/qs": "^6.5.1",
