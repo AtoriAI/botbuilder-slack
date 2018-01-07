@@ -34,7 +34,7 @@
     "@types/bluebird": "^3.5.19",
     "@types/jest": "^21.1.10",
     "@types/nock": "^9.1.0",
-    "@types/node": "^8.5.1",
+    "@types/node": "^8.5.2",
     "@types/qs": "^6.5.1",
     "@types/ws": "^3.2.1",
     "codecov": "^3.0.0",
