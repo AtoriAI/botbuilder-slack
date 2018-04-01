@@ -495,8 +495,8 @@ boom@5.x.x:
     hoek "4.x.x"
 
 botbuilder@^3.13.1:
-  version "3.14.0"
-  resolved "https://registry.yarnpkg.com/botbuilder/-/botbuilder-3.14.0.tgz#fc8a7e436e1f1ee3e4ff82ce183238f81dd570bd"
+  version "3.14.1"
+  resolved "https://registry.yarnpkg.com/botbuilder/-/botbuilder-3.14.1.tgz#c623b444d28de6ab667875672baa84887ef0a966"
   dependencies:
     async "^1.5.2"
     base64url "^2.0.0"
