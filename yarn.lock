@@ -46,8 +46,8 @@
   resolved "https://registry.yarnpkg.com/@types/highlight.js/-/highlight.js-9.1.8.tgz#d227f18bcb8f3f187e16965f2444859a04689758"
 
 "@types/jest@^22.0.1":
-  version "22.0.1"
-  resolved "https://registry.yarnpkg.com/@types/jest/-/jest-22.0.1.tgz#6370a6d60cce3845e4cd5d00bf65f654264685bc"
+  version "22.2.2"
+  resolved "https://registry.yarnpkg.com/@types/jest/-/jest-22.2.2.tgz#afe5dacbd00d65325f52da0ed3e76e259629ac9d"
 
 "@types/lodash@4.14.74":
   version "4.14.74"
