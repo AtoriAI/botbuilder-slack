@@ -2323,8 +2323,8 @@ natural-compare@^1.4.0:
   resolved "https://registry.yarnpkg.com/natural-compare/-/natural-compare-1.4.0.tgz#4abebfeed7541f2c27acfb29bdbbd15c8d5ba4f7"
 
 nock@^9.1.5:
-  version "9.2.3"
-  resolved "https://registry.yarnpkg.com/nock/-/nock-9.2.3.tgz#39738087d6a0497d3a165fb352612b38a2f9b92f"
+  version "9.3.0"
+  resolved "https://registry.yarnpkg.com/nock/-/nock-9.3.0.tgz#4dcfdd37bd249836754d05bbac5a1f05e12e0f16"
   dependencies:
     chai "^4.1.2"
     debug "^3.1.0"
